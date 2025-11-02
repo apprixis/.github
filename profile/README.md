@@ -1,0 +1,68 @@
+# 🌀 Apprixis
+
+**Apprixis** is a mobile app development studio dedicated to building **high-performance Android and iOS applications** using **native technologies** — [Kotlin](https://developer.android.com/kotlin) and [Swift](https://developer.apple.com/swift/).  
+We create fast, scalable, and beautifully crafted apps that perform flawlessly and stand out on the App Store and Play Store.
+
+---
+
+## 🚀 About Us
+
+At **Apprixis**, we believe in **performance, precision, and perfection**.  
+Our mission is to help startups and businesses create impactful mobile experiences that:
+
+- Perform beautifully ✨  
+- Scale efficiently ⚙️  
+- Delight users across devices 💡  
+
+Visit [apprixis.com](https://www.apprixis.com) to learn more about our services and portfolio.
+
+---
+
+## 📱 What We Do
+
+We specialize in:
+- 📱 **Native Android Development** — Kotlin, Jetpack Compose, and modern Android architecture  
+- 🍏 **Native iOS Development** — Swift, SwiftUI, and Apple’s latest frameworks  
+- ☁️ **API & Backend Integration** — Secure, fast, and scalable APIs  
+- 🧠 **AI-Powered Mobile Solutions**  
+- 🎨 **Modern UI/UX Design** for immersive mobile experiences  
+
+---
+
+## 🧩 Tech Stack
+
+| Platform | Technology |
+|-----------|-------------|
+| Android | Kotlin, Jetpack Compose |
+| iOS | Swift, SwiftUI |
+| Backend | Express.js, PostgreSQL |
+| Tools | GitHub Actions, Docker, Firebase |
+
+---
+
+## 🌍 Connect With Us
+
+- 🌐 Website: [https://www.apprixis.com](https://www.apprixis.com)  
+- 📧 Email: [info@apprixis.com](mailto:info@apprixis.com)  
+- 💼 LinkedIn: [Apprixis](https://www.linkedin.com/company/apprixis)  
+- 🐦 Twitter (X): [@apprixis](https://twitter.com/apprixis)  
+- 📸 Instagram: [@apprixis](https://www.instagram.com/apprixis)
+
+---
+
+## 💡 Vision
+
+To empower the next generation of digital experiences — by creating **apps that are fast, intuitive, and built to last**.
+
+---
+
+### 📢 Get in Touch
+
+We’re always open to collaboration, partnerships, and exciting projects.  
+👉 Let’s build something extraordinary together.
+
+**[Let's Talk →](https://www.apprixis.com/contact-us.html)**
+
+---
+
+© 2025 **Apprixis**. All rights reserved.
